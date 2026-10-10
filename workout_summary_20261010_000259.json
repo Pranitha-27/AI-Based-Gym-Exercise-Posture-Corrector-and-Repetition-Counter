@@ -1,0 +1,37 @@
+{
+  "session_date": "2026-10-10 00:02:59",
+  "duration_seconds": 5.6,
+  "total_reps": 3,
+  "total_good_reps": 3,
+  "total_bad_reps": 0,
+  "overall_accuracy_percentage": 100.0,
+  "exercises": {
+    "Shoulder Press": {
+      "total_reps": 3,
+      "good_reps": 3,
+      "bad_reps": 0,
+      "accuracy_percentage": 100.0,
+      "rep_details": [
+        {
+          "rep_number": 1,
+          "is_good": true,
+          "faults": [],
+          "timestamp": 1.7583098411560059
+        },
+        {
+          "rep_number": 2,
+          "is_good": true,
+          "faults": [],
+          "timestamp": 3.5291590690612793
+        },
+        {
+          "rep_number": 3,
+          "is_good": true,
+          "faults": [],
+          "timestamp": 5.237905740737915
+        }
+      ],
+      "fault_breakdown": {}
+    }
+  }
+}

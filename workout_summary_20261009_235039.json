@@ -1,0 +1,31 @@
+{
+  "session_date": "2026-10-09 23:50:39",
+  "duration_seconds": 4.9,
+  "total_reps": 2,
+  "total_good_reps": 2,
+  "total_bad_reps": 0,
+  "overall_accuracy_percentage": 100.0,
+  "exercises": {
+    "Push-up": {
+      "total_reps": 2,
+      "good_reps": 2,
+      "bad_reps": 0,
+      "accuracy_percentage": 100.0,
+      "rep_details": [
+        {
+          "rep_number": 1,
+          "is_good": true,
+          "faults": [],
+          "timestamp": 2.2688701152801514
+        },
+        {
+          "rep_number": 2,
+          "is_good": true,
+          "faults": [],
+          "timestamp": 4.512298822402954
+        }
+      ],
+      "fault_breakdown": {}
+    }
+  }
+}

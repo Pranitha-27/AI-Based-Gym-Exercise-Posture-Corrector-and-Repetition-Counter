@@ -1,0 +1,69 @@
+{
+  "session_date": "2026-10-09 23:50:31",
+  "duration_seconds": 6.7,
+  "total_reps": 6,
+  "total_good_reps": 0,
+  "total_bad_reps": 6,
+  "overall_accuracy_percentage": 0.0,
+  "exercises": {
+    "Squat": {
+      "total_reps": 6,
+      "good_reps": 0,
+      "bad_reps": 6,
+      "accuracy_percentage": 0.0,
+      "rep_details": [
+        {
+          "rep_number": 1,
+          "is_good": false,
+          "faults": [
+            "Squat deeper (aim for parallel)"
+          ],
+          "timestamp": 1.5462796688079834
+        },
+        {
+          "rep_number": 2,
+          "is_good": false,
+          "faults": [
+            "Squat deeper (aim for parallel)"
+          ],
+          "timestamp": 2.162574052810669
+        },
+        {
+          "rep_number": 3,
+          "is_good": false,
+          "faults": [
+            "Squat deeper (aim for parallel)"
+          ],
+          "timestamp": 2.911855697631836
+        },
+        {
+          "rep_number": 4,
+          "is_good": false,
+          "faults": [
+            "Squat deeper (aim for parallel)"
+          ],
+          "timestamp": 4.553044557571411
+        },
+        {
+          "rep_number": 5,
+          "is_good": false,
+          "faults": [
+            "Squat deeper (aim for parallel)"
+          ],
+          "timestamp": 5.221944570541382
+        },
+        {
+          "rep_number": 6,
+          "is_good": false,
+          "faults": [
+            "Squat deeper (aim for parallel)"
+          ],
+          "timestamp": 5.985903739929199
+        }
+      ],
+      "fault_breakdown": {
+        "Squat deeper (aim for parallel)": 6
+      }
+    }
+  }
+}

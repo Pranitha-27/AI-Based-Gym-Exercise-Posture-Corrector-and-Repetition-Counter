@@ -1,0 +1,37 @@
+{
+  "session_date": "2026-10-10 00:02:43",
+  "duration_seconds": 5.7,
+  "total_reps": 3,
+  "total_good_reps": 3,
+  "total_bad_reps": 0,
+  "overall_accuracy_percentage": 100.0,
+  "exercises": {
+    "Bicep Curl": {
+      "total_reps": 3,
+      "good_reps": 3,
+      "bad_reps": 0,
+      "accuracy_percentage": 100.0,
+      "rep_details": [
+        {
+          "rep_number": 1,
+          "is_good": true,
+          "faults": [],
+          "timestamp": 1.7871527671813965
+        },
+        {
+          "rep_number": 2,
+          "is_good": true,
+          "faults": [],
+          "timestamp": 3.5255701541900635
+        },
+        {
+          "rep_number": 3,
+          "is_good": true,
+          "faults": [],
+          "timestamp": 5.351053953170776
+        }
+      ],
+      "fault_breakdown": {}
+    }
+  }
+}

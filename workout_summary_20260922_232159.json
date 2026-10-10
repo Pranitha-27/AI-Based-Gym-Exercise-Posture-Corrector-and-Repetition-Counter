@@ -1,0 +1,18 @@
+{
+  "session_date": "2026-09-22 23:21:59",
+  "duration_seconds": 7.5,
+  "total_reps": 0,
+  "total_good_reps": 0,
+  "total_bad_reps": 0,
+  "overall_accuracy_percentage": 100.0,
+  "exercises": {
+    "Squat": {
+      "total_reps": 0,
+      "good_reps": 0,
+      "bad_reps": 0,
+      "accuracy_percentage": 100.0,
+      "rep_details": [],
+      "fault_breakdown": {}
+    }
+  }
+}

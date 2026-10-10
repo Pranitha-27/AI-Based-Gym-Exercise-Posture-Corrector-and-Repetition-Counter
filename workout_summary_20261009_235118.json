@@ -1,0 +1,37 @@
+{
+  "session_date": "2026-10-09 23:51:18",
+  "duration_seconds": 9.2,
+  "total_reps": 2,
+  "total_good_reps": 0,
+  "total_bad_reps": 2,
+  "overall_accuracy_percentage": 0.0,
+  "exercises": {
+    "Lunge": {
+      "total_reps": 2,
+      "good_reps": 0,
+      "bad_reps": 2,
+      "accuracy_percentage": 0.0,
+      "rep_details": [
+        {
+          "rep_number": 1,
+          "is_good": false,
+          "faults": [
+            "Lunge lower (reach 90 deg knee angle)"
+          ],
+          "timestamp": 1.7263555526733398
+        },
+        {
+          "rep_number": 2,
+          "is_good": false,
+          "faults": [
+            "Lunge lower (reach 90 deg knee angle)"
+          ],
+          "timestamp": 6.611223220825195
+        }
+      ],
+      "fault_breakdown": {
+        "Lunge lower (reach 90 deg knee angle)": 2
+      }
+    }
+  }
+}
